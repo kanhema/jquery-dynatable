@@ -1,7 +1,7 @@
 {
   "records": [
-    {"id": 1, "name": "Ann Arbor"},
-    {"id": 2, "name": "Costa Rica"}
+    {"id": 1, "name": "John Doe", "rank": "Commandant", "salary": "$2000", "tenure": "15 years" },
+    {"id": 2,  "name": "John Doe", "rank": "Commandant", "salary": "$2000", "tenure": "15 years"},
   ],
   "totalRecordCount": 2,
   "queryRecordCount": 2
